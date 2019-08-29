@@ -1,0 +1,11 @@
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\bin\Debug\netcoreapp2.1\calculate_number.deps.json
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\bin\Debug\netcoreapp2.1\calculate_number.runtimeconfig.json
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\bin\Debug\netcoreapp2.1\calculate_number.runtimeconfig.dev.json
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\bin\Debug\netcoreapp2.1\calculate_number.dll
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\bin\Debug\netcoreapp2.1\calculate_number.pdb
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\obj\Debug\netcoreapp2.1\calculate_number.csprojAssemblyReference.cache
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\obj\Debug\netcoreapp2.1\calculate_number.csproj.CoreCompileInputs.cache
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\obj\Debug\netcoreapp2.1\calculate_number.AssemblyInfoInputs.cache
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\obj\Debug\netcoreapp2.1\calculate_number.AssemblyInfo.cs
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\obj\Debug\netcoreapp2.1\calculate_number.dll
+C:\Users\weijie\Documents\Workspace(CS)\calculate_number\calculate_number\obj\Debug\netcoreapp2.1\calculate_number.pdb
