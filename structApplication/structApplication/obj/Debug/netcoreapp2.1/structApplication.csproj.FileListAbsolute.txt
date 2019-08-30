@@ -1,0 +1,11 @@
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\bin\Debug\netcoreapp2.1\structApplication.deps.json
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\bin\Debug\netcoreapp2.1\structApplication.runtimeconfig.json
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\bin\Debug\netcoreapp2.1\structApplication.runtimeconfig.dev.json
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\bin\Debug\netcoreapp2.1\structApplication.dll
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\bin\Debug\netcoreapp2.1\structApplication.pdb
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\obj\Debug\netcoreapp2.1\structApplication.csprojAssemblyReference.cache
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\obj\Debug\netcoreapp2.1\structApplication.csproj.CoreCompileInputs.cache
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\obj\Debug\netcoreapp2.1\structApplication.AssemblyInfoInputs.cache
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\obj\Debug\netcoreapp2.1\structApplication.AssemblyInfo.cs
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\obj\Debug\netcoreapp2.1\structApplication.dll
+C:\Users\weijie\Documents\Workspace(CS)\structApplication\structApplication\obj\Debug\netcoreapp2.1\structApplication.pdb

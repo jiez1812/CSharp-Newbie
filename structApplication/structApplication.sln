@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structApplication", "structApplication\structApplication.csproj", "{B1BD8B63-174C-42A0-AD07-40D4188D81FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1BD8B63-174C-42A0-AD07-40D4188D81FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BD8B63-174C-42A0-AD07-40D4188D81FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BD8B63-174C-42A0-AD07-40D4188D81FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BD8B63-174C-42A0-AD07-40D4188D81FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0935F85E-6485-4DB7-BFC7-CA4D65F0D37C}
+	EndGlobalSection
+EndGlobal
