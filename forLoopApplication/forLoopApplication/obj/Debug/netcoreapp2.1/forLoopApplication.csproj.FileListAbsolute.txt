@@ -1,0 +1,11 @@
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\bin\Debug\netcoreapp2.1\forLoopApplication.deps.json
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\bin\Debug\netcoreapp2.1\forLoopApplication.runtimeconfig.json
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\bin\Debug\netcoreapp2.1\forLoopApplication.runtimeconfig.dev.json
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\bin\Debug\netcoreapp2.1\forLoopApplication.dll
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\bin\Debug\netcoreapp2.1\forLoopApplication.pdb
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\obj\Debug\netcoreapp2.1\forLoopApplication.csprojAssemblyReference.cache
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\obj\Debug\netcoreapp2.1\forLoopApplication.csproj.CoreCompileInputs.cache
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\obj\Debug\netcoreapp2.1\forLoopApplication.AssemblyInfoInputs.cache
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\obj\Debug\netcoreapp2.1\forLoopApplication.AssemblyInfo.cs
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\obj\Debug\netcoreapp2.1\forLoopApplication.dll
+C:\Users\weijie\Documents\Workspace(CS)\forLoopApplication\forLoopApplication\obj\Debug\netcoreapp2.1\forLoopApplication.pdb
