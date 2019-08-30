@@ -1,0 +1,14 @@
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\bin\Debug\Counter App.exe.config
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\bin\Debug\Counter App.exe
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\bin\Debug\Counter App.pdb
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\obj\Debug\Counter App.csprojAssemblyReference.cache
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\obj\Debug\Counter_App.Form1.resources
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\obj\Debug\Counter_App.Properties.Resources.resources
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\obj\Debug\Counter App.csproj.GenerateResource.cache
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\obj\Debug\Counter App.csproj.CoreCompileInputs.cache
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\obj\Debug\Counter App.exe
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\obj\Debug\Counter App.pdb
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\bin\Debug\Counter App.exe.manifest
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\bin\Debug\Counter App.application
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\obj\Debug\Counter App.exe.manifest
+C:\Users\weijie\Documents\Workspace(CS)\Counter App\Counter App\obj\Debug\Counter App.application
